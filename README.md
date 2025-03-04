@@ -18,3 +18,6 @@ Conclusions:
 -Asia has the biggest ratio of male to female patients for its population.
 
 -Men have higher cancer rates globally than women, Lung cancer is the most prevalent worldwide and as the population grows so does cancer rates.
+
+
+Back to [Welcome Page](https://adambouzgan.github.io/Welcome-To-My-Portfolio/)
