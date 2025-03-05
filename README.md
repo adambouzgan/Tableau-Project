@@ -1,4 +1,4 @@
-Back to [Welcome Page](https://adambouzgan.github.io/Welcome-To-My-Portfolio/)
+<img width="50" alt="Screenshot 2025-03-05 at 07 38 04" src="https://github.com/user-attachments/assets/9661612c-37ea-4a50-a17b-25601a8b7a94" />Back to [Welcome Page](https://adambouzgan.github.io/Welcome-To-My-Portfolio/)
 
 # Tableau-Project
 
