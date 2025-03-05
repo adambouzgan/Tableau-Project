@@ -2,16 +2,19 @@
 
 # Tableau-Project
 
+## Data Visualisation
 <img width="654" alt="Screenshot 2025-03-05 at 07 23 51" src="https://github.com/user-attachments/assets/b63d6b53-6a6f-4b12-86c8-358acfcd6e24" />
 
-
+## Data Analysis
 
 <img width="655" alt="Screenshot 2025-03-05 at 07 24 29" src="https://github.com/user-attachments/assets/9ef4cf07-2c3c-4b22-be27-22ae0efbabf6" />
+
+## Data Statistics
 <img width="655" alt="Screenshot 2025-03-05 at 07 25 08" src="https://github.com/user-attachments/assets/72761d6a-7fe8-4854-aed0-d6efa7446188" />
 
 
 
-# Conclusions:
+## Conclusions:
 
 -Africa holds the highest blood pressure patients recorded per continent.
 
